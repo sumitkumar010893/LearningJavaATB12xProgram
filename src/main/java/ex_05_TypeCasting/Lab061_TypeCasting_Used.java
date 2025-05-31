@@ -1,6 +1,6 @@
 package ex_05_TypeCasting;
 
-public class Lab060_TypeCasting_Used {
+public class Lab061_TypeCasting_Used {
     public static void main(String[] args) {
 
         int course = 100;
