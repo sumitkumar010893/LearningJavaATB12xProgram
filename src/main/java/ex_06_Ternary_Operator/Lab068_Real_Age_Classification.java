@@ -9,6 +9,7 @@ public class Lab068_Real_Age_Classification {
         System.out.println(user_input instanceof String);
         System.out.println(user_input);
 
+        // Integer.parseINT CONVERT String data type into integer
         int age = Integer.parseInt(user_input); // NumberFormatException: For input String : "Sumit"
         System.out.println(age);
 
