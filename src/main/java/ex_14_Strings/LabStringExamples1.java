@@ -24,7 +24,7 @@ public class LabStringExamples1 {
         boolean b = "".isEmpty(); // true
         System.out.println(b);
 
-        String s11 = String.join("z-", "Java","Python");
+        String s11 = String.join("z-", "Java","Python"); // Javaz-Python
         System.out.println(s11);
 
         String s12 = "Java".replace('a','o'); // "Jovo"

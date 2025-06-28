@@ -1,0 +1,15 @@
+package ex_24_Exceptions;
+
+public class Lab216_EC {
+    public static void main(String[] args) {
+        try {
+            String ip = args[0]; // java.lang.ArrayIndexOutOfBoundException
+            int a = Integer.parseInt(ip); // NumberFormatException
+            int b = 100/a; // ArithmeticException
+            System.out.println(b);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+}

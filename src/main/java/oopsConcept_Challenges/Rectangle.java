@@ -1,0 +1,13 @@
+package oopsConcept_Challenges;
+
+public class Rectangle implements Drawable{
+
+
+    @Override
+    public void draw(){
+        System.out.println("Drawing a Rectangle");
+
+    }
+
+
+}
