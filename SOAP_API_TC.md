@@ -3,6 +3,7 @@ Here is your entire test case suite formatted in **Markdown** — perfect for sh
 ---
 
 ### 📘 **ISBN10 Validation API Test Cases (SOAP)**
+https://webservices.daehosting.com/services/isbnservice.wso?op=IsValidISBN10
 
 | Scenario TID     | Test Data                   | TestCase Description                     | PreCondition   | TestSteps                                   | Expected Result        | Actual Result | Steps to Execute                        | Expected Result        | Actual Result | Status       | Executed QA Name | Misc (Comments)          | Priority | Is Automated |
 | ---------------- | --------------------------- | ---------------------------------------- | -------------- | ------------------------------------------- | ---------------------- | ------------- | --------------------------------------- | ---------------------- | ------------- | ------------ | ---------------- | ------------------------ | -------- | ------------ |
