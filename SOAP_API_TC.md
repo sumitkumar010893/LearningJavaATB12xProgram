@@ -1,6 +1,3 @@
-Here is your entire test case suite formatted in **Markdown** — perfect for sharing with your students in documentation, GitHub README, or online editors:
-
----
 
 ### 📘 **ISBN10 Validation API Test Cases (SOAP)**
 https://webservices.daehosting.com/services/isbnservice.wso?op=IsValidISBN10
